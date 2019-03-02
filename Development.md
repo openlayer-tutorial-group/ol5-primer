@@ -7,6 +7,7 @@
 ## 2. 注意事项
 * 请尽量使用中文，专业术语除外，比如OpenLayers，WMTS，TMS等
 * 本教程采用GitBook工具来生成教程，在参与教程编写之前，请先自行学习了解GitBook，Markdown的相关知识（可参见[GitBook 使用教程][1]和[Markdown语法][2]）。 
+* GitBook适配的Node版本要小于等于6，否则不行。
 ## 3. 编写规范
 * 教程编写采用认领制，具体参见下面的认领制度。
 * 编写时，请先Fork项目，在Fork出来的项目中编写，然后PR到本项目。经过团队两人以上的Review通过后，方能合入。
@@ -19,6 +20,16 @@
 ## 5. 交流工具
 * 目前采用QQ群进行沟通协作，有问题及需要都可以加入QQ群693790689。
 * 有任何和教程相关的问题，可以在群里找我们的ScrumMaster，或者管家，ScrumMaster和管家在群名片都有备注。
+## 6. GitBook环境简要搭建
+* 安装node v6的版本和对应的npm。
+* 执行命令`npm install -g gitbook-cli`安装对应的命令行工具。
+* 进入目录contents。
+	* 执行命令`gitbook init`进行初始化。
+	* 执行命令`gitbook install`安装相应的插件。
+	* 执行命令`gitbook build`进行构建。
+	* 执行命令`gitbook server`启动服务，在浏览器访问[http://localhost:4000][3]即可看到教程页面。
+
 
 [1]:	https://www.jianshu.com/p/421cc442f06c
 [2]:	http://gitbook.hushuang.me/syntax/markdown.html
+[3]:	http://localhost:4000

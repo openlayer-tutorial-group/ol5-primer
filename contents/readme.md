@@ -1,0 +1,3 @@
+# OpenLayers 5 Primer
+
+这是一本面向中国的OpenLayers V5版本初学者的入门教程。如果您是OpenLayers最新版本的初学者，该教程将帮助您降低学习曲线。如果您是OpenLayers旧版本的使用者，该教程将帮助您快速入手最新版本。

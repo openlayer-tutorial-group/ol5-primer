@@ -3,14 +3,13 @@
     "title": "OpenLayers 5 Primer",
     "description": "这是一本为初学者准备的OpenLayers 5入门书籍",
     "structure": {
-        "readme": "README.md",
-        "summary": "SUMMARY.md"
+        "readme": "readme.md",
+        "summary": "summary.md"
     },
     "plugins": [
         "duoshuo",
         "baidu",
         "katex",
-        "donate",
         "github-buttons",
         "github"
     ],
