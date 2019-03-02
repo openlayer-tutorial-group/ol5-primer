@@ -1,0 +1,54 @@
+{
+    "gitbook": "2.x.x",
+    "title": "OpenLayers 5 Primer",
+    "description": "这是一本为初学者准备的OpenLayers 5入门书籍",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "plugins": [
+        "duoshuo",
+        "baidu",
+        "katex",
+        "donate",
+        "github-buttons",
+        "github"
+    ],
+    "pluginsConfig": {
+        "baidu": {
+            "token": "598c9c941360724a65331e7d9a66c9b6"
+        },
+        "search": {
+            "maxIndexSize": 10000
+        },
+        "duoshuo": {
+            "short_name": "ol5-primer",
+            "theme": "default"
+        },
+        "github-buttons": {
+            "repo": "penlayer-tutorial-group/ol5-primer",
+            "types": [
+                "star",
+                "watch"
+            ],
+            "size": "small"
+        },
+        "github": {
+            "url": "https://github.com/openlayer-tutorial-group/ol5-primer"
+        },
+        "sharing": {
+            "facebook": false,
+            "twitter": true,
+            "google": false,
+            "weibo": true,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "weibo",
+                "facebook",
+                "google",
+                "twitter"
+            ]
+        }
+    }
+}
