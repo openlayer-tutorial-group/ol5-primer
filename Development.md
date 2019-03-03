@@ -34,7 +34,7 @@
 	* 执行命令`gitbook init`进行初始化。
 	* 执行命令`gitbook install`安装相应的插件。
 	* 执行命令`gitbook build`进行构建。
-	* 执行命令`gitbook server`启动服务，在浏览器访问[http://localhost:4000][4]即可看到教程页面。
+	* 执行命令`gitbook serve`启动服务，在浏览器访问[http://localhost:4000][4]即可看到教程页面。
 
 
 [1]:	https://www.jianshu.com/p/421cc442f06c
