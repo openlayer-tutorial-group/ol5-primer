@@ -14,7 +14,7 @@
     * 解析地图代码
     * 同框架集成
         * 同VUE集成
-        * 同React集成 (zhangliquan)[https://github.com/Liquid-Zhangliquan] 3.3-3.31
+        * 同React集成 [Liquid-Zhangliquan](https://github.com/Liquid-Zhangliquan) 3.3-3.31
         * 同Angular集成
 * OpenLayers 5 基本应用开发
     * 基本要素应用开发
@@ -98,8 +98,5 @@
     * 。。。(征集)
 * 常见问题
 * 附录
-	* OGC翻译 
-    (690788010)[https://github.com/690788010] 
-    (leopold2019)[https://github.com/leopold2019] 
-    Homxu 3.3-6.3
+	* OGC翻译 [690788010](https://github.com/690788010])+[leopold2019](https://github.com/leopold2019])+Homxu 3.3-6.3
 
