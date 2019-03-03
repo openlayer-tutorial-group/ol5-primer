@@ -76,7 +76,13 @@
     * 修改、保存要素
 * OpenLayers 5 高阶之GeoServer集成
     * 通过WMS协议集成
-        * 通过WFS协议集成
+    * 通过WFS协议集成
+* OpenLayers 5 高阶之arcgis集成
+    * 通过WMS协议集成
+    * 通过WFS协议集成
+* OpenLayers 5 高阶之supermap集成
+    * 通过WMS协议集成
+    * 通过WFS协议集成
 * OpenLayers 5 案例
     * 轨迹回放
     * 区域截图
@@ -91,4 +97,6 @@
     * OpenLayers 5 WebGL绘制源码解析
     * 。。。(征集)
 * 常见问题
+* 附录
+	* OGC翻译
 
