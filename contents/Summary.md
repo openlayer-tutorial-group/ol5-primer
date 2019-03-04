@@ -74,22 +74,22 @@
     * 要素选取和识别
     * 修改、保存要素
 * OpenLayers 5 高阶之服务集成
-	* OpenLayers 5 高阶之GeoServer集成
-    	* 集成WMS服务
-    	* 集成WMTS服务
-    	* 集成WFS服务
-	* OpenLayers 5 高阶之arcgis集成
-    	* 集成WMS服务
-    	* 集成WMTS服务
-    	* 集成WFS服务
-	* OpenLayers 5 高阶之supermap集成
-    	* 通过WMS协议集成
-    	* 通过WMTS协议集成
-    	* 通过WFS协议集成
+    * OpenLayers 5 高阶之GeoServer集成
+        * 集成WMS服务
+        * 集成WMTS服务
+        * 集成WFS服务
+    * OpenLayers 5 高阶之arcgis集成
+        * 集成WMS服务
+        * 集成WMTS服务
+        * 集成WFS服务
+    * OpenLayers 5 高阶之supermap集成
+        * 通过WMS协议集成
+        * 通过WMTS协议集成
+        * 通过WFS协议集成
 * OpenLayers 5 高阶之组件集成
-	* 集成echart
-	* 集成D3
-	* 集成threejs
+    * 集成echart
+    * 集成D3
+    * 集成threejs
 * OpenLayers 5 案例
     * 轨迹回放
     * 区域截图
@@ -105,8 +105,8 @@
     * 。。。(征集)
 * 常见问题
 * 附录
-	* 常用地理坐标系
-		* EPSG:3758
-		* EPSG:4326
-	* OGC翻译 ([@690788010](https://github.com/690788010])+[@leopold2019](https://github.com/leopold2019])+[@Homxu](https://github.com/homxuwang) 3.3-6.3)
+    * 常用地理坐标系
+        * EPSG:3758
+        * EPSG:4326
+    * OGC翻译 ([@690788010](https://github.com/690788010])+[@leopold2019](https://github.com/leopold2019])+[@Homxu](https://github.com/homxuwang) 3.3-6.3)
 
