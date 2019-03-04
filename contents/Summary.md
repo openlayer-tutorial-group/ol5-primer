@@ -33,8 +33,8 @@
     * 理解地图坐标
     * 理解坐标体系
     * View开发
-        * 控制地图移动 ([@point](https://github.com/pointGH) 3.2-3.31)
-        * 控制显示范围
+        * 控制地图移动 ([@pointGH](https://github.com/pointGH) 3.2-3.31)
+        * 控制显示范围 ([@pointGH](https://github.com/pointGH) 3.2-3.31)
         * 控制缩放层级
 * OpenLayers 5 进阶之Source与Layer
     * 添加多个图层
