@@ -15,7 +15,7 @@
 * 目录结构规范：
 	* 教程相关的信息都在contents目录里面;
 	* 相关章节的文档都按照章节放在contents/chxxx目录下；
-	* 文件命名按照章节编号命名，并遵循层级目录结构。例如：第一章的主页面命名为contents/ch01/ch01.md，第一章第一节页面命名为contents/ch01/ch01-01.md，第一章第一节下面的第一节页面命名为contents/ch01/ch01-01-01.md，以此类推；
+	* 文件命名按照章节编号命名，并遵循层级目录结构。例如：第一章的主页面命名为contents/ch01/index.md，第一章第一节页面命名为contents/ch01/01.md，依次为contents/ch01/02.md，contents/ch01/03.md，以此类推；如果第一章第一节下面还有子级，需要按层次创建目录，并命令为contents/ch01/01/index.md, contents/ch01/01/01.md，contents/ch01/01/02.md，contents/ch01/01/03.md，以此类推；
 	* 用到的示例代码统一放在contents/codes下面，并按照文档目录结构存放；
 	* 图片统一放在contents/images下面，并按照文档目录结构存放；
 * 在文档中添加示例代码，统一使用GitBook插件include-codeblock引入展示，插件已配置好，仅需要在编写文档时，用[import](path/document.md)来引入，更详细的语法参见[include-codeblock插件主页][3]
