@@ -8,7 +8,6 @@
     },
     "plugins": [
         "-lunr", "-search", "search-pro",
-        "disqus",
         "baidu",
         "katex",
         "github-buttons",
@@ -18,8 +17,8 @@
         "chapter-fold"
     ],
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "ol5-primer"
+        "theme-default": {
+            "showLevel": true
         },
         "baidu": {
             "token": "598c9c941360724a65331e7d9a66c9b6"
