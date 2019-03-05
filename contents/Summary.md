@@ -95,7 +95,7 @@
 * 组件集成
     * 集成echart ([@sakitam-fdd](https://github.com/sakitam-fdd) 3.4-3.15)
     * 集成D3
-    * 集成threejs (@萌萌哒的熊哥 3.4-6.4)
+    * 集成threejs ([@萌萌哒的熊哥](https://github.com/kelina01) 3.4-6.4)
 
 ### 案例
 * 轨迹回放
