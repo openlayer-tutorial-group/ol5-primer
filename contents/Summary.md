@@ -15,7 +15,7 @@
     * 认识地图组件
     * 解析地图代码
     * 同框架集成
-        * 同VUE集成
+        * 同VUE集成 ([@alex2wong](https://github.com/alex2wong) 3.4-3.31)
         * 同React集成 ([@Liquid-Zhangliquan](https://github.com/Liquid-Zhangliquan) 3.3-3.31)
         * 同Angular集成
 * 基本应用开发
@@ -93,7 +93,7 @@
         * 通过WMTS协议集成
         * 通过WFS协议集成
 * 组件集成
-    * 集成echart
+    * 集成echart ([@sakitam-fdd](https://github.com/sakitam-fdd) 3.4-3.15)
     * 集成D3
     * 集成threejs
 
