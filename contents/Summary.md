@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](readme.md)
-* [序言](ch01/index.md)
+* [序言](ch-preface/index.md)
 
 ### 入门
-* [OpenLayers 5 介绍](ch02/index.md)
-    * [初识OpenLayers 5](ch02/01.md)
+* [OpenLayers 5 介绍](ch-ol5-intro/index.md)
+    * [初识OpenLayers 5](ch-ol5-intro/first-knowledge.md)
     * OpenLayers的应用场景
     * OpenLayers 5组成部分
     * 官网Example和API说明
